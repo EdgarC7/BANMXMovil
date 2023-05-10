@@ -7,5 +7,6 @@ a las zonas.
 
 # Implmentación:
 La aplicación esta desarrollada en android studio utilizando kotlin:
-
+![](androidStudio.png)
+![](Kotlin_Icon.png)
 
